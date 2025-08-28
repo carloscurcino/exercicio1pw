@@ -46,7 +46,7 @@ public class Main {
             System.out.println(" - " + field.getName());
         }
         
-        Filho filho = new Filho();
+        Filho filho = new Filho();''
         filho.setNome("Carlos");
         filho.setEscola("Leiny lopes");
         attributes = reflexao.listAttributes(filho);
